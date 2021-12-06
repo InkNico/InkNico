@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @InkNico
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in cybersecurity & Software Development
+- 🌱 I’m currently learning Python & JavaSCript
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ndjimenezj@icloud.com
 
